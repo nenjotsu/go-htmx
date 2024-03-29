@@ -19,3 +19,7 @@
 
 # Go workspace file
 go.work
+app_data.db
+tmp/
+tmp/build-errors.log
+tmp/main
