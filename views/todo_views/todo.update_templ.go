@@ -13,7 +13,7 @@ import "bytes"
 import (
 	"strconv"
 
-	"github.com/nenjotsu/go-htmx/internal/api/services"
+	"github.com/nenjotsu/go-htmx/internal/services"
 )
 
 func UpdateTodo(todo services.Todo, tz string) templ.Component {

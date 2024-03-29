@@ -1,9 +1,9 @@
 package main
 
 import (
-	handlers "github.com/nenjotsu/go-htmx/internal/api/handlers"
-	services "github.com/nenjotsu/go-htmx/internal/api/services"
 	db "github.com/nenjotsu/go-htmx/internal/database"
+	handlers "github.com/nenjotsu/go-htmx/internal/handlers"
+	services "github.com/nenjotsu/go-htmx/internal/services"
 
 	"github.com/gorilla/sessions"
 	"github.com/labstack/echo-contrib/session"

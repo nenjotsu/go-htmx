@@ -8,7 +8,7 @@ import (
 
 	"github.com/labstack/echo-contrib/session"
 	"github.com/labstack/echo/v4"
-	"github.com/nenjotsu/go-htmx/internal/api/services"
+	"github.com/nenjotsu/go-htmx/internal/services"
 	"github.com/nenjotsu/go-htmx/views/todo_views"
 	"golang.org/x/text/cases"
 	"golang.org/x/text/language"

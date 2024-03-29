@@ -7,7 +7,7 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/nenjotsu/go-htmx/internal/api/services"
+	"github.com/nenjotsu/go-htmx/internal/services"
 	"github.com/nenjotsu/go-htmx/views/auth_views"
 	"golang.org/x/crypto/bcrypt"
 
