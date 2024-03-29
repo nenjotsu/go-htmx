@@ -1,4 +1,4 @@
-# go-htmx
+# go-htmx (WIP)
 golang htmx with tailwindcss template
 
 # Getting started 
@@ -11,7 +11,7 @@ $ templ generate --watch # to generate view files
 
 ## Production
 ```bash
-$ go build -ldflags="-s -w" -o ./bin/main .
+$ go build -ldflags="-s -w" -o ./bin/main ./cmd/
 $ # run the application
 $ # ./bin/main 
 ```
