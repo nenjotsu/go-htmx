@@ -23,3 +23,5 @@ app_data.db
 tmp/
 tmp/build-errors.log
 tmp/main
+bin/main
+bin/
